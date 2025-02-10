@@ -1,0 +1,46 @@
+.menu {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 5px solid white; 
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.hatter{
+    background: url(hatter.jpg) ;
+    padding: 100px;
+    width: 400px;
+    margin-right: 50px;
+    display: flex;
+    height: 1300px;
+}
+header{
+    background: url(bordofal.jpg);
+    width: 840px;
+    margin:auto;
+    height:100px;
+    padding-top: 25px;
+}
+h1{
+    color: white;
+}
+body{
+    background-color: #403434;
+}
+.menusor{
+    background:black;
+    width: 200px;
+    float:left;
+    margin-left:525px;
+    height:1461px;
+    color: aliceblue;
+    padding: 20px;
+}
+.szin{
+    padding: 30px;
+    
+}
+.szin:hover{
+    background-color: gray;
+}
